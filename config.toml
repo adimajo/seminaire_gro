@@ -1,0 +1,10 @@
+theme = "simple-a"
+baseURL = "https://adimajo.github.io/seminaire_gro"
+languageCode = "fr-fr"
+title = "Séminaire GRO - Crédit Agricole"
+relativeURLs=true
+CanonifyURLs=true
+publishDir = "../seminaire_gro_public"
+
+[params]
+  favicon_ico = "/images/logo.png"
