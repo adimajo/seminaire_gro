@@ -32,4 +32,4 @@ Téléchargement : [pdf](/slides/SEMINAIRE_GRO_odqa_CA.pdf)
 
 # Replay
 
-{{< youtube w7Ft2ymGmfc >}}
+{{< youtube PXZ_bKIcT1U >}}
