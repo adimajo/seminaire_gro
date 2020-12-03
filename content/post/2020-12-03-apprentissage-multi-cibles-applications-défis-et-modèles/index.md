@@ -12,11 +12,17 @@ Description: ''
 Tags: []
 ---
 
+# Invité
+
+![](https://jmread.github.io/images/me_sm.jpg)
+
+[**Jesse Read**](https://jmread.github.io/)
+
 # Lieu et date
 
 Date : 03-12-2020, 11h-12h
 
-Lieu : [lien Webex]()
+Lieu : [lien Webex](https://vnca.webex.com/vnca/j.php?MTID=m74ef50efa905f6fb3c938b2dd13c4599)
 
 # Abstract
 
@@ -25,6 +31,10 @@ Nous aborderons des questions d'une modélisation efficace des sorties via struc
 
 # Slides
 
-Téléchargement : [pdf]()
+Téléchargement : [pdf](http://www.lix.polytechnique.fr/~jread/tmp/Slides_CreditAgricole_03_Dec_2020.pdf)
 
-{{< embed-pdf url="../../slides/" >}}
+{{< embed-pdf url="../../slides/Slides_CreditAgricole_03_Dec_2020.pdf" >}}
+
+# Replay
+
+{{< youtube PXZ_bKIcT1U >}}

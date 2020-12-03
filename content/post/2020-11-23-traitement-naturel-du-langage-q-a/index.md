@@ -14,6 +14,12 @@ Description: ''
 Tags: []
 ---
 
+# Invité
+
+![](https://media-exp1.licdn.com/dms/image/C5603AQG_uE4XB4AQQw/profile-displayphoto-shrink_800_800/0?e=1612396800&v=beta&t=SB5HPtDCKPYNvBQ-UTyjDKE614AIAWNCzX7y_7o3mto)
+
+[**Gautier Izacard**](https://www.linkedin.com/in/gizacard)
+
 # Lieu et date
 
 Date : 23-11-2020, 11h-12h
