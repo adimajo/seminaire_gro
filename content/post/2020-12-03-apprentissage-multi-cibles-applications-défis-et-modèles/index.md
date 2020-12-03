@@ -37,4 +37,4 @@ Téléchargement : [pdf](http://www.lix.polytechnique.fr/~jread/tmp/Slides_Credi
 
 # Replay
 
-{{< youtube PXZ_bKIcT1U >}}
+{{< youtube b4kVj4q0mbQ >}}
