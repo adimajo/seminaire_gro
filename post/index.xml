@@ -2,17 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Séminaire GRO - Crédit Agricole</title>
-    <link>https://adimajo.github.io/seminaire_gro/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Séminaire GRO - Crédit Agricole</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://adimajo.github.io/seminaire_gro/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nouvelles fonctionnalités Data &amp; IA</title>
+      <link>/post/2021-06-03-fonctionnalites-data-ia-cagip/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-06-03-fonctionnalites-data-ia-cagip/</guid>
+      <description>Invité CAGIP
+Lieu et date Date : 03-06-2021, 13h30-15h
+Lieu : présentation interne - lien Webex dans l&amp;rsquo;invitation</description>
+    </item>
+    
     <item>
       <title>Apprentissage Multi-cibles : Applications, Défis, et Modèles</title>
-      <link>https://adimajo.github.io/seminaire_gro/post/2020-12-03-apprentissage-multi-cibles-applications-d%C3%A9fis-et-mod%C3%A8les/</link>
+      <link>/post/2020-12-03-apprentissage-multi-cibles-applications-d%C3%A9fis-et-mod%C3%A8les/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adimajo.github.io/seminaire_gro/post/2020-12-03-apprentissage-multi-cibles-applications-d%C3%A9fis-et-mod%C3%A8les/</guid>
+      <guid>/post/2020-12-03-apprentissage-multi-cibles-applications-d%C3%A9fis-et-mod%C3%A8les/</guid>
       <description>Invité Jesse Read
 Lieu et date Date : 03-12-2020, 11h-12h
 Lieu : lien Webex
@@ -21,10 +32,10 @@ Abstract L&amp;rsquo;apprentissage multi-cibles (le cas où l&amp;rsquo;on consi
     
     <item>
       <title>Traitement naturel du langage - Q&amp;A</title>
-      <link>https://adimajo.github.io/seminaire_gro/post/2020-11-23-traitement-naturel-du-langage-q-a/</link>
+      <link>/post/2020-11-23-traitement-naturel-du-langage-q-a/</link>
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adimajo.github.io/seminaire_gro/post/2020-11-23-traitement-naturel-du-langage-q-a/</guid>
+      <guid>/post/2020-11-23-traitement-naturel-du-langage-q-a/</guid>
       <description>Invité Gautier Izacard
 Lieu et date Date : 23-11-2020, 11h-12h
 Lieu : lien Webex
