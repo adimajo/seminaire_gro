@@ -1,17 +1,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Séminaire GRO - Crédit Agricole on Séminaire GRO - Crédit Agricole </title>
-    <link>/</link>
+    <link>https://adimajo.github.io/seminaire_gro/</link>
     <language>en-us</language>
     <author>Alexander Ivanov</author>
     <updated>2020-12-03 00:00:00 &#43;0000 UTC</updated>
     
     <item>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://adimajo.github.io/seminaire_gro/post/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 UTC</pubDate>
       <author>Alexander Ivanov</author>
-      <guid>/post/</guid>
+      <guid>https://adimajo.github.io/seminaire_gro/post/</guid>
       <description></description>
     </item>
     

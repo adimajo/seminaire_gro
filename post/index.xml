@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Séminaire GRO - Crédit Agricole</title>
-    <link>/post/</link>
+    <link>https://adimajo.github.io/seminaire_gro/post/</link>
     <description>Recent content in Posts on Séminaire GRO - Crédit Agricole</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://adimajo.github.io/seminaire_gro/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apprentissage Multi-cibles : Applications, Défis, et Modèles</title>
-      <link>/post/2020-12-03-apprentissage-multi-cibles-applications-d%C3%A9fis-et-mod%C3%A8les/</link>
+      <link>https://adimajo.github.io/seminaire_gro/post/2020-12-03-apprentissage-multi-cibles-applications-d%C3%A9fis-et-mod%C3%A8les/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020-12-03-apprentissage-multi-cibles-applications-d%C3%A9fis-et-mod%C3%A8les/</guid>
+      <guid>https://adimajo.github.io/seminaire_gro/post/2020-12-03-apprentissage-multi-cibles-applications-d%C3%A9fis-et-mod%C3%A8les/</guid>
       <description>Invité Jesse Read
 Lieu et date Date : 03-12-2020, 11h-12h
 Lieu : lien Webex
@@ -21,10 +21,10 @@ Abstract L&amp;rsquo;apprentissage multi-cibles (le cas où l&amp;rsquo;on consi
     
     <item>
       <title>Traitement naturel du langage - Q&amp;A</title>
-      <link>/post/2020-11-23-traitement-naturel-du-langage-q-a/</link>
+      <link>https://adimajo.github.io/seminaire_gro/post/2020-11-23-traitement-naturel-du-langage-q-a/</link>
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020-11-23-traitement-naturel-du-langage-q-a/</guid>
+      <guid>https://adimajo.github.io/seminaire_gro/post/2020-11-23-traitement-naturel-du-langage-q-a/</guid>
       <description>Invité Gautier Izacard
 Lieu et date Date : 23-11-2020, 11h-12h
 Lieu : lien Webex
